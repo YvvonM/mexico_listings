@@ -103,3 +103,6 @@ class DataInspector:
         None: Executes the strategy's inspection method.
         """
         self._strategy.inspect(df)
+
+if __name__ ==  "__main__":
+    pass
